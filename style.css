@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(unsplash_jSAb1ifwf8Y.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin-top: 5em;
+    margin-left: 3em;
+    margin-right: 3em;
+    height: 100%;
+    color: white;
+}
+
+.contains{
+    border-top: 10em;
+    width: 42.75em;
+    height: 28.375em;
+}
+
+.contains h1 {
+    width: 100%;
+    height: 2.5em;
+    font-weight: 700;
+    font-size: 5.5em;
+    margin-top: 2em;
+    margin-bottom: 0;
+}
+
+.contains p {
+    width: 568px;
+    font-weight: 00;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.contains button {
+    margin-top: 1em;
+    border-radius: 0.5em;
+    padding: 1em 3em;
+    width: 13.5em;
+    font-size: large;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-height: 14.5em;
+    margin-top: 7em;
+    margin-bottom: 2em;
+}
+
+.one {
+    background-color:#1D1D1D;
+    width: 22.75em;
+    height: auto;
+    border-radius: 1em;
+}
+
+.tow{
+    background-color:#1D1D1D;
+    width: 22.75em;
+    height: auto;
+    border-radius: 1em;
+}
+
+.three{
+    background-color:#1D1D1D;
+    width: 22.75em;
+    height: auto;
+    border-radius: 1em;
+}
+
+.isi-card {
+    padding: 2em 3em 3em 3em;
+}
+.isi-card h2 {
+    margin-bottom: 0.5em;
+    font-size: 2em;
+}
+
+.isi-card p {
+    font-size: 1em;
+}
+
+
